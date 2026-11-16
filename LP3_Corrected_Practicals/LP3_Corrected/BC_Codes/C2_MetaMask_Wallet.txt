@@ -1,0 +1,15 @@
+C2 - Create and configure a MetaMask wallet and perform transactions (no code)
+
+1. Install MetaMask from https://metamask.io/.
+2. Create a new wallet and set a strong password.
+3. Write down the 12-word Secret Recovery Phrase offline and confirm it.
+4. Never share the phrase, private key or password with anyone.
+5. Enable test networks and select Sepolia.
+6. Add/rename accounts as Sender and Receiver.
+7. Copy the Sender public address and obtain Sepolia test ETH from a trusted faucet.
+8. Send a small test amount from Sender to Receiver and confirm the transaction.
+9. Switch to Receiver and verify the incoming balance and transaction on the Sepolia explorer.
+10. Send a small amount back, ensuring enough ETH remains for gas.
+11. Explain: sender balance decreases by amount sent plus transaction fee; receiver balance increases by amount received.
+
+Use test ETH only. Never use real funds for a classroom demonstration.

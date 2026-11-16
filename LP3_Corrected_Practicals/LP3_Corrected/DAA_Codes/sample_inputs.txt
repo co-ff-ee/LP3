@@ -1,0 +1,6 @@
+A1: 5
+A2: 4 jobs: (1,4,20) (2,1,10) (3,1,40) (4,1,30)
+A3: 3 items: (60,10) (100,20) (120,30), capacity 50
+A4: 3 items: (10,60) (20,100) (30,120), capacity 50
+A5: n=5, k=2
+A6: first queen row=0, column=0

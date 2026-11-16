@@ -1,0 +1,15 @@
+C1 - Install MetaMask and examine Ether transaction costs (no code)
+
+1. Install MetaMask only from https://metamask.io/ and create a wallet.
+2. Store the Secret Recovery Phrase offline. Never share it or enter it on another website.
+3. Enable test networks in MetaMask settings and select Sepolia.
+4. Copy your public wallet address and obtain Sepolia test ETH from a trusted faucet.
+5. Create a second account in MetaMask.
+6. Send a small test amount (for example, 0.001 Sepolia ETH) from Account 1 to Account 2.
+7. Open the transaction in Activity and view it on the Sepolia block explorer.
+8. Record Gas Used, Gas Price and Transaction Fee.
+9. Repeat with another transaction and compare the fee.
+
+Formula: Transaction fee (ETH) = Gas Used x Gas Price (ETH per gas).
+If Gas Price is shown in Gwei: fee (ETH) = Gas Used x Gas Price (Gwei) / 1,000,000,000.
+Only use test ETH. Testnet faucet availability and MetaMask menus may change.
